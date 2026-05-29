@@ -3,7 +3,7 @@ import axios from "axios"
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer, BarChart, Bar, XAxis, YAxis } from "recharts"
 import { MessageCircle, TrendingUp, AlertTriangle, List, Send, Bot, User } from "lucide-react"
 
-const API = "http://127.0.0.1:8000"
+const API = "https://finsight-ai-backend-vris.onrender.com"
 
 const COLORS = ["#6366f1", "#22c55e", "#f59e0b", "#ef4444", "#3b82f6", "#ec4899", "#14b8a6"]
 
