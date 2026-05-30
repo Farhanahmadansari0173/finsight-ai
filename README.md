@@ -19,6 +19,13 @@ Ask it anything:
 
 ---
 
+## 🌐 Live Demo
+
+Live App: https://glistening-taiyaki-f12b61.netlify.app
+API: https://finsight-ai-backend-vris.onrender.com
+
+---
+
 ## 🏗️ Architecture
 
 User → React Frontend → FastAPI Backend → Groq LLaMA 70B
